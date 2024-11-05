@@ -1,6 +1,6 @@
 {
     "Version": "1.0.1",
-    "DownloadUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/updates/RDPSecure_1.0.1.zip",
+    "DownloadUrl": "https://raw.githubusercontent.com/jurgens92/RDPSecureUpdates/main/updates/RDPSecure_1.0.1.zip",
     "ReleaseNotes": "- Added automatic update feature\n- Test update functionality",
     "Checksum": "",
     "IsCritical": false,
