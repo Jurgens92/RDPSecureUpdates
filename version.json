@@ -3,6 +3,6 @@
     "DownloadUrl": "https://raw.githubusercontent.com/jurgens92/RDPSecureUpdates/main/updates/RDPSecure_1.0.1.zip",
     "ReleaseNotes": "- Added automatic update feature \n- Test update functionality",
     "Checksum": "",
-    "IsCritical": false,
+    "IsCritical": true,
     "ReleaseDate": "2024-11-05"
 }
